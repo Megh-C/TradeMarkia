@@ -27,6 +27,7 @@ chroma_db/
 
 # dataset
 data/raw/
+data/processed
 
 # vector db
 chroma_db/
