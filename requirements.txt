@@ -1,6 +1,11 @@
+fastapi
+uvicorn
+streamlit
+requests
 chromadb
 sentence-transformers
+scikit-learn
+numpy
+pandas
 tqdm
 matplotlib
-uvicorn
-fastapi 
